@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/img/theme/reportes.jpg"
   },
   {
-    "revision": "3a4d462ef894dadef247",
-    "url": "/js/chunk-6bcdc2aa.34154523.js"
+    "revision": "4f5af2307465e47fa758",
+    "url": "/js/chunk-6bcdc2aa.8f3a2188.js"
   },
   {
     "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/img/template-4.9c22984e.png"
   },
   {
-    "revision": "c2fd63a30a3332095d7218a18db7702b",
+    "revision": "842583ba642d37dbb2875094a8bd6ad7",
     "url": "/index.html"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/theme/profile-default.png"
   },
   {
-    "revision": "83fa0c1a241379858d45",
-    "url": "/js/app.81210e48.js"
+    "revision": "c5377c62177702732eef",
+    "url": "/js/app.91b018b9.js"
   },
   {
     "revision": "3b8c576082e5ca27bae21a839f1290f6",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/img/theme/agenda.jpg"
   },
   {
-    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
-    "url": "/img/theme/team-3-800x800.jpg"
+    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
+    "url": "/img/theme/Banner.png"
   },
   {
     "revision": "a79e2167f5ab76ca6e4feeafb31fcc04",
@@ -132,15 +132,15 @@ self.__precacheManifest = [
     "url": "/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
-    "url": "/img/theme/Banner.png"
+    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
+    "url": "/img/theme/team-3-800x800.jpg"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "83fa0c1a241379858d45",
+    "revision": "c5377c62177702732eef",
     "url": "/css/app.2dea199a.css"
   },
   {
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "1f6be708cc845491dec6",
@@ -172,8 +172,8 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.4ca9948d.css"
   },
   {
-    "revision": "3a4d462ef894dadef247",
-    "url": "/css/chunk-6bcdc2aa.33e7b8a6.css"
+    "revision": "4f5af2307465e47fa758",
+    "url": "/css/chunk-6bcdc2aa.8e9ab1e8.css"
   },
   {
     "revision": "16d4b55f8b1c1f2cc3782a3e3386c329",
