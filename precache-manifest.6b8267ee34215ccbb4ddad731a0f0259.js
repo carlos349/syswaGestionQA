@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "50dd5fdc839dfc16739b15370650485c",
-    "url": "/img/theme/react.jpg"
+    "revision": "3b8c576082e5ca27bae21a839f1290f6",
+    "url": "/img/theme/sketch.jpg"
   },
   {
     "revision": "6fb59a1b94cc43776f270e1de6622cf8",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/img/brand/syswa-isotipo.png"
   },
   {
-    "revision": "93929da7ae1722429c7e9d894761dc41",
-    "url": "/img/brand/syswa-gestion.png"
-  },
-  {
     "revision": "be997d5226b992ffad34816870c6b7aa",
     "url": "/img/theme/team-2-800x800.jpg"
+  },
+  {
+    "revision": "93929da7ae1722429c7e9d894761dc41",
+    "url": "/img/brand/syswa-gestion.png"
   },
   {
     "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/img/template-4.9c22984e.png"
   },
   {
-    "revision": "d691b1c8c62a489f6db8642eae536394",
+    "revision": "8bc5c9ceea836389759da8cfb95d0e2e",
     "url": "/index.html"
   },
   {
@@ -84,20 +84,16 @@ self.__precacheManifest = [
     "url": "/img/theme/angular.jpg"
   },
   {
-    "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
-    "url": "/img/theme/bootstrap.jpg"
-  },
-  {
     "revision": "2300fe007d5a1d67cb00c281b16319c5",
     "url": "/img/theme/profile-default.png"
   },
   {
-    "revision": "969dfee5dbcb32936833",
-    "url": "/js/app.67f9a660.js"
+    "revision": "50dd5fdc839dfc16739b15370650485c",
+    "url": "/img/theme/react.jpg"
   },
   {
-    "revision": "3b8c576082e5ca27bae21a839f1290f6",
-    "url": "/img/theme/sketch.jpg"
+    "revision": "6caf851c1eee90aa7e23",
+    "url": "/js/app.92a88d8e.js"
   },
   {
     "revision": "c532f6f0176968caa6265864ee1abb35",
@@ -106,6 +102,10 @@ self.__precacheManifest = [
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
+    "url": "/img/theme/bootstrap.jpg"
   },
   {
     "revision": "b37d2558404192e18ca66e0533e57cf1",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "969dfee5dbcb32936833",
+    "revision": "6caf851c1eee90aa7e23",
     "url": "/css/app.2dea199a.css"
   },
   {
