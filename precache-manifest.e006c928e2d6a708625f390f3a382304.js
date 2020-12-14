@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/img/brand/logokk.png"
   },
   {
-    "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
-    "url": "/img/theme/users.jpg"
+    "revision": "cee60cfd101f9b3d2aae0e819ec8b267",
+    "url": "/img/theme/profile-cover.jpg"
   },
   {
     "revision": "1f6be708cc845491dec6",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/js/chunk-68cc9a36.8e340d4a.js"
   },
   {
-    "revision": "cee60cfd101f9b3d2aae0e819ec8b267",
-    "url": "/img/theme/profile-cover.jpg"
-  },
-  {
-    "revision": "fefecb25ee2baf588798",
-    "url": "/js/chunk-6bcdc2aa.121d7ade.js"
-  },
-  {
     "revision": "f703eaaed9a404e2b342a4d5d98f261a",
     "url": "/img/theme/reportes.jpg"
+  },
+  {
+    "revision": "db5cf214133f303130fd",
+    "url": "/js/chunk-6bcdc2aa.7213f542.js"
+  },
+  {
+    "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
+    "url": "/img/theme/users.jpg"
   },
   {
     "revision": "18fb3fe08572f0819770",
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/img/template-6.d272b05f.png"
   },
   {
-    "revision": "a79e2167f5ab76ca6e4feeafb31fcc04",
-    "url": "/jquery-3.3.1.slim.min.js"
-  },
-  {
     "revision": "fe57650882e307346421eb5f579d8138",
     "url": "/img/brand/syswa-isotipo.png"
   },
   {
-    "revision": "b37d2558404192e18ca66e0533e57cf1",
-    "url": "/popper.min.js"
-  },
-  {
     "revision": "be997d5226b992ffad34816870c6b7aa",
     "url": "/img/theme/team-2-800x800.jpg"
+  },
+  {
+    "revision": "93929da7ae1722429c7e9d894761dc41",
+    "url": "/img/brand/syswa-gestion.png"
+  },
+  {
+    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
+    "url": "/img/theme/clients.jpg"
   },
   {
     "revision": "46abbc4a676739dbd61f8a305cb63fd8",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/img/template-4.9c22984e.png"
   },
   {
-    "revision": "b067d86403654eb3e3190e88727ff3b3",
+    "revision": "fa67b5b7b4a0034fd8b846bf409f2b58",
     "url": "/index.html"
   },
   {
-    "revision": "93929da7ae1722429c7e9d894761dc41",
-    "url": "/img/brand/syswa-gestion.png"
+    "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
+    "url": "/img/theme/profile-defaultt.png"
   },
   {
     "revision": "1f533d2fdc40493ee834dd8e4288220c",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/theme/profile-default.png"
   },
   {
-    "revision": "df70baac4115c1a8e87e",
-    "url": "/js/app.c71e5a8e.js"
+    "revision": "7f0a0fc64875487a09f4",
+    "url": "/js/app.6fd4c63e.js"
   },
   {
     "revision": "3b8c576082e5ca27bae21a839f1290f6",
@@ -108,12 +108,20 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
-    "url": "/img/theme/clients.jpg"
+    "revision": "b37d2558404192e18ca66e0533e57cf1",
+    "url": "/popper.min.js"
   },
   {
-    "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
-    "url": "/img/theme/profile-defaultt.png"
+    "revision": "2ed0763d9ab3049120da4ac7f64652ef",
+    "url": "/img/theme/agenda.jpg"
+  },
+  {
+    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
+    "url": "/img/theme/Banner.png"
+  },
+  {
+    "revision": "a79e2167f5ab76ca6e4feeafb31fcc04",
+    "url": "/jquery-3.3.1.slim.min.js"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
@@ -124,23 +132,15 @@ self.__precacheManifest = [
     "url": "/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
-    "url": "/img/theme/Banner.png"
-  },
-  {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
     "url": "/img/theme/team-3-800x800.jpg"
-  },
-  {
-    "revision": "2ed0763d9ab3049120da4ac7f64652ef",
-    "url": "/img/theme/agenda.jpg"
   },
   {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "df70baac4115c1a8e87e",
+    "revision": "7f0a0fc64875487a09f4",
     "url": "/css/app.2dea199a.css"
   },
   {
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.8d8fb4fe.css"
   },
   {
-    "revision": "fefecb25ee2baf588798",
+    "revision": "db5cf214133f303130fd",
     "url": "/css/chunk-6bcdc2aa.8e9ab1e8.css"
   },
   {
