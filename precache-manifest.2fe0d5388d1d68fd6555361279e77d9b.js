@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/img/theme/reportes.jpg"
   },
   {
-    "revision": "9e195739037e70b7c975",
-    "url": "/js/chunk-6bcdc2aa.bf3a2649.js"
+    "revision": "cb873b1fbce1a1a1ef52",
+    "url": "/js/chunk-6bcdc2aa.1b31b5ed.js"
   },
   {
     "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/img/template-4.9c22984e.png"
   },
   {
-    "revision": "bcac4675454c980adda97e9957e57794",
+    "revision": "08c9ff77c9ed6d1e137d83c4c7bbcd1f",
     "url": "/index.html"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/theme/profile-default.png"
   },
   {
-    "revision": "910e467fc2412b2fc1cc",
-    "url": "/js/app.bd124999.js"
+    "revision": "badfecaae8ffb08de0f2",
+    "url": "/js/app.4d698eba.js"
   },
   {
     "revision": "3b8c576082e5ca27bae21a839f1290f6",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "910e467fc2412b2fc1cc",
+    "revision": "badfecaae8ffb08de0f2",
     "url": "/css/app.2dea199a.css"
   },
   {
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.8d8fb4fe.css"
   },
   {
-    "revision": "9e195739037e70b7c975",
+    "revision": "cb873b1fbce1a1a1ef52",
     "url": "/css/chunk-6bcdc2aa.8e9ab1e8.css"
   },
   {
