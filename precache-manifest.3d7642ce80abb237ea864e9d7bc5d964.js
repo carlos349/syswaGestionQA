@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/img/theme/reportes.jpg"
   },
   {
-    "revision": "136eb1d1d9a1a926f1a1",
-    "url": "/js/chunk-6bcdc2aa.cd76bcac.js"
+    "revision": "77869d8c0ede5cafe98a",
+    "url": "/js/chunk-6bcdc2aa.af36614d.js"
   },
   {
     "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/img/template-4.9c22984e.png"
   },
   {
-    "revision": "906f7e3cb9b9fffdb43cbaf97c0dd716",
+    "revision": "f0136566048faceb6ea1e8526fb2d982",
     "url": "/index.html"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/img/theme/profile-default.png"
   },
   {
-    "revision": "3a4c301b9be4ead5f4f0",
-    "url": "/js/app.128c5da4.js"
+    "revision": "46fb4a4516043eee3c0a",
+    "url": "/js/app.f7a5961c.js"
   },
   {
     "revision": "3b8c576082e5ca27bae21a839f1290f6",
@@ -136,11 +136,11 @@ self.__precacheManifest = [
     "url": "/img/theme/team-3-800x800.jpg"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "3a4c301b9be4ead5f4f0",
+    "revision": "46fb4a4516043eee3c0a",
     "url": "/css/app.2dea199a.css"
   },
   {
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "8c8a1cf8baa42690d3dc",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.02892206.css"
   },
   {
-    "revision": "136eb1d1d9a1a926f1a1",
+    "revision": "77869d8c0ede5cafe98a",
     "url": "/css/chunk-6bcdc2aa.ce3de2b4.css"
   },
   {
