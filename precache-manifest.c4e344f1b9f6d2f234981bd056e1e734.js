@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/img/nucleo-icons.46abbc4a.svg"
   },
   {
-    "revision": "9a8dbe13874254daee0f510e7e405c91",
+    "revision": "0559cb665ef1fd5999d4864c8e45dfb6",
     "url": "/index.html"
   },
   {
@@ -124,8 +124,8 @@ self.__precacheManifest = [
     "url": "/img/theme/users.png"
   },
   {
-    "revision": "2f48503573c50b8be04f",
-    "url": "/js/app.95770773.js"
+    "revision": "7bed50db1a156f636ba3",
+    "url": "/js/app.5baabea0.js"
   },
   {
     "revision": "0f4d13ea98e2a252cd4e76614cddce8e",
@@ -140,10 +140,6 @@ self.__precacheManifest = [
     "url": "/img/theme/calendar.png"
   },
   {
-    "revision": "aecfb9f7f2f4c2448e898a5b281933b6",
-    "url": "/img/theme/configuration.png"
-  },
-  {
     "revision": "b0c11510c7d2a8e2f2402be014387b85",
     "url": "/img/theme/shop.png"
   },
@@ -152,12 +148,16 @@ self.__precacheManifest = [
     "url": "/img/theme/store.png"
   },
   {
-    "revision": "e7be3ecd921efc88bbca5e090862eac7",
-    "url": "/img/theme/profile.png"
+    "revision": "aecfb9f7f2f4c2448e898a5b281933b6",
+    "url": "/img/theme/configuration.png"
   },
   {
     "revision": "50e42caa32cb0364bb83b0c3b79016cb",
     "url": "/img/theme/sales.png"
+  },
+  {
+    "revision": "e7be3ecd921efc88bbca5e090862eac7",
+    "url": "/img/theme/profile.png"
   },
   {
     "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
@@ -200,7 +200,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "2f48503573c50b8be04f",
+    "revision": "7bed50db1a156f636ba3",
     "url": "/css/app.f8c650d4.css"
   },
   {
@@ -208,12 +208,12 @@ self.__precacheManifest = [
     "url": "/img/brand/calendar.png"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
-  },
-  {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
