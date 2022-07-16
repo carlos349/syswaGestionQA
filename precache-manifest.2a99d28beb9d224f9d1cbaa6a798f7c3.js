@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "f3b723828738b5dfe4da",
+    "revision": "8fb0ce1d6b88d5276940",
     "url": "/css/app.8f9d531d.css"
   },
   {
-    "revision": "f3b723828738b5dfe4da",
-    "url": "/js/app.24c98fba.js"
+    "revision": "8fb0ce1d6b88d5276940",
+    "url": "/js/app.6ec0a8fe.js"
   },
   {
-    "revision": "24f81de1a61dcfb1df10",
+    "revision": "b94fba79d60067201bcb",
     "url": "/css/chunk-3082b613.9b3c7eec.css"
   },
   {
-    "revision": "24f81de1a61dcfb1df10",
-    "url": "/js/chunk-3082b613.3c1c74da.js"
+    "revision": "b94fba79d60067201bcb",
+    "url": "/js/chunk-3082b613.e6e87f0e.js"
   },
   {
     "revision": "c71d861ee44713309927",
     "url": "/js/chunk-68cc9a36.9048fca2.js"
   },
   {
-    "revision": "aefab5aef9a4b9698b59",
+    "revision": "7db262482e5027ac6559",
     "url": "/css/chunk-73c2056c.6f1db0ec.css"
   },
   {
-    "revision": "aefab5aef9a4b9698b59",
-    "url": "/js/chunk-73c2056c.cb393e0f.js"
+    "revision": "7db262482e5027ac6559",
+    "url": "/js/chunk-73c2056c.7690a960.js"
   },
   {
     "revision": "401d15f415e3eefb0865",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.d0888a48.js"
   },
   {
-    "revision": "3e29f0c2b74bf84f62ce",
+    "revision": "16dadf00fb9829a61d87",
     "url": "/css/demo.b2ec8c9f.css"
   },
   {
-    "revision": "3e29f0c2b74bf84f62ce",
-    "url": "/js/demo.e28727dc.js"
+    "revision": "16dadf00fb9829a61d87",
+    "url": "/js/demo.d5b0b717.js"
   },
   {
     "revision": "9c96e0ed7093c095fd33870329282962",
@@ -68,20 +68,20 @@ self.__precacheManifest = [
     "url": "/img/nucleo-icons.46abbc4a.svg"
   },
   {
-    "revision": "bd887c762db94c7dd00bdfdb1e1e98e2",
+    "revision": "0b5856258a5686a7ef122832f69de0d0",
     "url": "/index.html"
   },
   {
-    "revision": "16d4b55f8b1c1f2cc3782a3e3386c329",
-    "url": "/bootstrap.min.js"
+    "revision": "185539981482cea1299c1fdcebb598b4",
+    "url": "/all.css"
   },
   {
     "revision": "afb0175f4417917d8cb162e0884b5fa9",
     "url": "/img/brand/calendar.png"
   },
   {
-    "revision": "185539981482cea1299c1fdcebb598b4",
-    "url": "/all.css"
+    "revision": "16d4b55f8b1c1f2cc3782a3e3386c329",
+    "url": "/bootstrap.min.js"
   },
   {
     "revision": "93929da7ae1722429c7e9d894761dc41",
@@ -92,20 +92,24 @@ self.__precacheManifest = [
     "url": "/img/brand/syswa-isotipo.png"
   },
   {
+    "revision": "1f533d2fdc40493ee834dd8e4288220c",
+    "url": "/img/theme/angular.jpg"
+  },
+  {
     "revision": "3e6dc8c5f72f27c0e3f93c3f7f43669a",
     "url": "/img/theme/access.png"
   },
   {
-    "revision": "1f533d2fdc40493ee834dd8e4288220c",
-    "url": "/img/theme/angular.jpg"
+    "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
+    "url": "/img/theme/bootstrap.jpg"
   },
   {
     "revision": "2ed0763d9ab3049120da4ac7f64652ef",
     "url": "/img/theme/agenda.jpg"
   },
   {
-    "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
-    "url": "/img/theme/bootstrap.jpg"
+    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
+    "url": "/img/theme/Banner.png"
   },
   {
     "revision": "0f4d13ea98e2a252cd4e76614cddce8e",
@@ -116,32 +120,28 @@ self.__precacheManifest = [
     "url": "/img/theme/branch.png"
   },
   {
-    "revision": "a75ef9f6193ffa787c60baeea2e92d0c",
-    "url": "/img/theme/Banner.png"
-  },
-  {
-    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
-    "url": "/img/theme/clients.jpg"
-  },
-  {
-    "revision": "1881d2a2c3f7bb5e1b4ac0b2622291b0",
-    "url": "/img/theme/clients.png"
+    "revision": "84335294072f0ad513fc8614b54a428a",
+    "url": "/img/theme/calendar.png"
   },
   {
     "revision": "aecfb9f7f2f4c2448e898a5b281933b6",
     "url": "/img/theme/configuration.png"
   },
   {
-    "revision": "ced0f2c9d36acd10447db1f3b3339104",
-    "url": "/img/theme/employes.png"
+    "revision": "1881d2a2c3f7bb5e1b4ac0b2622291b0",
+    "url": "/img/theme/clients.png"
+  },
+  {
+    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
+    "url": "/img/theme/clients.jpg"
   },
   {
     "revision": "c1cacccae0d09aa2a50d3240f8457f2c",
     "url": "/img/theme/employeReport.png"
   },
   {
-    "revision": "84335294072f0ad513fc8614b54a428a",
-    "url": "/img/theme/calendar.png"
+    "revision": "ced0f2c9d36acd10447db1f3b3339104",
+    "url": "/img/theme/employes.png"
   },
   {
     "revision": "ef90ef6ebf8cfa521445aea45be0f3d0",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/img/theme/profile.png"
   },
   {
-    "revision": "50dd5fdc839dfc16739b15370650485c",
-    "url": "/img/theme/react.jpg"
-  },
-  {
     "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
     "url": "/img/theme/profile-defaultt.png"
+  },
+  {
+    "revision": "50dd5fdc839dfc16739b15370650485c",
+    "url": "/img/theme/react.jpg"
   },
   {
     "revision": "50e42caa32cb0364bb83b0c3b79016cb",
@@ -180,24 +180,28 @@ self.__precacheManifest = [
     "url": "/img/theme/shop.png"
   },
   {
-    "revision": "3b8c576082e5ca27bae21a839f1290f6",
-    "url": "/img/theme/sketch.jpg"
-  },
-  {
     "revision": "f703eaaed9a404e2b342a4d5d98f261a",
     "url": "/img/theme/reportes.jpg"
+  },
+  {
+    "revision": "3b8c576082e5ca27bae21a839f1290f6",
+    "url": "/img/theme/sketch.jpg"
   },
   {
     "revision": "29e3026dd1091caff211c1761cb9d226",
     "url": "/img/theme/store.png"
   },
   {
+    "revision": "edc7106b21ec12e57022b2ebd534cd2d",
+    "url": "/img/theme/team-1-800x800.jpg"
+  },
+  {
     "revision": "93929da7ae1722429c7e9d894761dc41",
     "url": "/img/theme/syswa-gestion.png"
   },
   {
-    "revision": "edc7106b21ec12e57022b2ebd534cd2d",
-    "url": "/img/theme/team-1-800x800.jpg"
+    "revision": "66618a418175ddf2ac8c47a241d327a8",
+    "url": "/img/theme/team-4-800x800.jpg"
   },
   {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
@@ -208,10 +212,6 @@ self.__precacheManifest = [
     "url": "/img/theme/team-2-800x800.jpg"
   },
   {
-    "revision": "66618a418175ddf2ac8c47a241d327a8",
-    "url": "/img/theme/team-4-800x800.jpg"
-  },
-  {
     "revision": "4524351b9c58adb85b5e1b32374347ab",
     "url": "/img/theme/users.png"
   },
@@ -220,12 +220,12 @@ self.__precacheManifest = [
     "url": "/img/theme/vue.jpg"
   },
   {
-    "revision": "b37d2558404192e18ca66e0533e57cf1",
-    "url": "/popper.min.js"
-  },
-  {
     "revision": "a79e2167f5ab76ca6e4feeafb31fcc04",
     "url": "/jquery-3.3.1.slim.min.js"
+  },
+  {
+    "revision": "b37d2558404192e18ca66e0533e57cf1",
+    "url": "/popper.min.js"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
