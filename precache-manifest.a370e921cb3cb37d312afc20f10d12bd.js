@@ -4,48 +4,52 @@ self.__precacheManifest = [
     "url": "/popper.min.js"
   },
   {
+    "revision": "b19bbdd813f73aa193678e5a04d297d8",
+    "url": "/img/brand/kkspa.png"
+  },
+  {
     "revision": "6fb59a1b94cc43776f270e1de6622cf8",
     "url": "/img/brand/logokk.png"
+  },
+  {
+    "revision": "7a691bcbb2e79a3c7d88",
+    "url": "/js/chunk-157ba924.87a267a5.js"
+  },
+  {
+    "revision": "038b587db69e8d607344",
+    "url": "/js/chunk-34264b1d.1e0aaa9b.js"
   },
   {
     "revision": "cee60cfd101f9b3d2aae0e819ec8b267",
     "url": "/img/theme/profile-cover.jpg"
   },
   {
-    "revision": "7969fd7ab0090af525a2",
-    "url": "/js/chunk-60a4ce6e.a90949a4.js"
-  },
-  {
-    "revision": "c71d861ee44713309927",
-    "url": "/js/chunk-68cc9a36.9048fca2.js"
+    "revision": "956df569d8df56f04fa1",
+    "url": "/js/chunk-6b932e4e.aeb48660.js"
   },
   {
     "revision": "f703eaaed9a404e2b342a4d5d98f261a",
     "url": "/img/theme/reportes.jpg"
   },
   {
-    "revision": "a3a411b2994d4feed431",
-    "url": "/js/chunk-73c2056c.9e7cf0df.js"
+    "revision": "c7bbfd89440583700dff",
+    "url": "/js/chunk-vendors.0175d06e.js"
   },
   {
     "revision": "8b9bd173c568d23af78eb6ae16d04eb2",
     "url": "/img/theme/users.jpg"
   },
   {
-    "revision": "c7bbfd89440583700dff",
-    "url": "/js/chunk-vendors.0175d06e.js"
-  },
-  {
-    "revision": "db1039af1a43f2ad9d499468459fcd9c",
-    "url": "/img/theme/inventario.jpg"
-  },
-  {
-    "revision": "1ae48e1d8b2a80bc6c3e",
-    "url": "/js/demo.3a717898.js"
+    "revision": "9bc4c7abbe081b354fc1",
+    "url": "/js/demo.3d9b965e.js"
   },
   {
     "revision": "9c96e0ed7093c095fd33870329282962",
     "url": "/img/flags.9c96e0ed.9c96e0ed.png"
+  },
+  {
+    "revision": "db1039af1a43f2ad9d499468459fcd9c",
+    "url": "/img/theme/inventario.jpg"
   },
   {
     "revision": "fe57650882e307346421eb5f579d8138",
@@ -60,20 +64,16 @@ self.__precacheManifest = [
     "url": "/img/theme/syswa-gestion.png"
   },
   {
-    "revision": "93929da7ae1722429c7e9d894761dc41",
-    "url": "/img/brand/syswa-gestion.png"
-  },
-  {
     "revision": "46abbc4a676739dbd61f8a305cb63fd8",
     "url": "/img/nucleo-icons.46abbc4a.svg"
   },
   {
-    "revision": "be860de8cd5a88d8268307e665e46209",
+    "revision": "2449f37a001b97f71f47c88d5c966b2d",
     "url": "/index.html"
   },
   {
-    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
-    "url": "/img/theme/clients.jpg"
+    "revision": "93929da7ae1722429c7e9d894761dc41",
+    "url": "/img/brand/syswa-gestion.png"
   },
   {
     "revision": "1f533d2fdc40493ee834dd8e4288220c",
@@ -96,12 +96,12 @@ self.__precacheManifest = [
     "url": "/img/theme/sketch.jpg"
   },
   {
-    "revision": "c532f6f0176968caa6265864ee1abb35",
-    "url": "/img/theme/vue.jpg"
-  },
-  {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "c532f6f0176968caa6265864ee1abb35",
+    "url": "/img/theme/vue.jpg"
   },
   {
     "revision": "c2da9acf4a2818e249a2ec94862a938d",
@@ -124,8 +124,8 @@ self.__precacheManifest = [
     "url": "/img/theme/users.png"
   },
   {
-    "revision": "b206ac697f5004ab62a5",
-    "url": "/js/app.2a1cc1b9.js"
+    "revision": "38200549b943f2b93bfc",
+    "url": "/js/app.cd87a74f.js"
   },
   {
     "revision": "0f4d13ea98e2a252cd4e76614cddce8e",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "/img/theme/calendar.png"
   },
   {
-    "revision": "aecfb9f7f2f4c2448e898a5b281933b6",
-    "url": "/img/theme/configuration.png"
-  },
-  {
     "revision": "1881d2a2c3f7bb5e1b4ac0b2622291b0",
     "url": "/img/theme/clients.png"
+  },
+  {
+    "revision": "aecfb9f7f2f4c2448e898a5b281933b6",
+    "url": "/img/theme/configuration.png"
   },
   {
     "revision": "b0c11510c7d2a8e2f2402be014387b85",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/img/theme/sales.png"
   },
   {
-    "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
-    "url": "/img/theme/profile-defaultt.png"
+    "revision": "4567c9af4dfa454a6e3a9bf30a34fe80",
+    "url": "/img/theme/clients.jpg"
   },
   {
-    "revision": "2ed0763d9ab3049120da4ac7f64652ef",
-    "url": "/img/theme/agenda.jpg"
+    "revision": "5af6fc4a13dbb054068d55056ff0c4fe",
+    "url": "/img/theme/profile-defaultt.png"
   },
   {
     "revision": "a79e2167f5ab76ca6e4feeafb31fcc04",
@@ -196,12 +196,20 @@ self.__precacheManifest = [
     "url": "/img/theme/Banner.png"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "b3dcde74562a17008131d40320402872",
+    "url": "/img/brand/syswa-gestion2.png"
   },
   {
-    "revision": "b206ac697f5004ab62a5",
-    "url": "/css/app.8f9d531d.css"
+    "revision": "2ed0763d9ab3049120da4ac7f64652ef",
+    "url": "/img/theme/agenda.jpg"
+  },
+  {
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
+    "revision": "38200549b943f2b93bfc",
+    "url": "/css/app.82dde4ad.css"
   },
   {
     "revision": "afb0175f4417917d8cb162e0884b5fa9",
@@ -216,28 +224,24 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "b19bbdd813f73aa193678e5a04d297d8",
-    "url": "/img/brand/kkspa.png"
+    "revision": "7a691bcbb2e79a3c7d88",
+    "url": "/css/chunk-157ba924.983dcdcb.css"
   },
   {
-    "revision": "1ae48e1d8b2a80bc6c3e",
-    "url": "/css/demo.e7b58568.css"
+    "revision": "9bc4c7abbe081b354fc1",
+    "url": "/css/demo.07a9656b.css"
   },
   {
     "revision": "c7bbfd89440583700dff",
     "url": "/css/chunk-vendors.b568aebd.css"
   },
   {
-    "revision": "a3a411b2994d4feed431",
-    "url": "/css/chunk-73c2056c.86d83177.css"
-  },
-  {
-    "revision": "7969fd7ab0090af525a2",
-    "url": "/css/chunk-60a4ce6e.3c3ed0bc.css"
+    "revision": "956df569d8df56f04fa1",
+    "url": "/css/chunk-6b932e4e.dce60888.css"
   },
   {
     "revision": "16d4b55f8b1c1f2cc3782a3e3386c329",
